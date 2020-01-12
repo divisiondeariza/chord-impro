@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/chord-impro/static/css/main.9305b842.chunk.css",
+    "main.js": "/chord-impro/static/js/main.3a1e38ce.chunk.js",
+    "main.js.map": "/chord-impro/static/js/main.3a1e38ce.chunk.js.map",
+    "runtime-main.js": "/chord-impro/static/js/runtime-main.09a88697.js",
+    "runtime-main.js.map": "/chord-impro/static/js/runtime-main.09a88697.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/chord-impro/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.2ad0c5bd.chunk.js": "/chord-impro/static/js/2.2ad0c5bd.chunk.js",
+    "static/js/2.2ad0c5bd.chunk.js.map": "/chord-impro/static/js/2.2ad0c5bd.chunk.js.map",
+    "index.html": "/chord-impro/index.html",
+    "precache-manifest.f8e9eecf52f7b41fcee1948c140268ae.js": "/chord-impro/precache-manifest.f8e9eecf52f7b41fcee1948c140268ae.js",
+    "service-worker.js": "/chord-impro/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/chord-impro/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.9305b842.chunk.css.map": "/chord-impro/static/css/main.9305b842.chunk.css.map",
+    "static/js/2.2ad0c5bd.chunk.js.LICENSE": "/chord-impro/static/js/2.2ad0c5bd.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09a88697.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.2ad0c5bd.chunk.js",
+    "static/css/main.9305b842.chunk.css",
+    "static/js/main.3a1e38ce.chunk.js"
+  ]
+}
